@@ -1,2 +1,2 @@
-# Econext_flowmeter
+# Econext flowmeter
 Arduino based flowmeter
